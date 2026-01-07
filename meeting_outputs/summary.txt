@@ -1,0 +1,18 @@
+**1. Summary – natural human-like overview of the meeting**
+
+The meeting focused on the progress of the new website update. The design phase has been completed, and the final mock-up has been shared for review. The team is now working on integrating the designs into the frontend, with the goal of completing this task by tomorrow evening. Once the frontend is ready, Sam will finalize their work, and the team will conduct a final test to check for bugs before deployment. The target launch date for the new website is Friday.
+
+**2. Decisions Made – bullet points of confirmed decisions**
+
+* The design phase of the new website update is complete.
+* The final mock-up has been shared for review.
+* The frontend integration will be completed by tomorrow evening.
+* The final test and bug check will be conducted once Sam's work is complete.
+* The target launch date for the new website is Friday.
+
+**3. Action Plan / Next Steps – bullet points with owners and deadlines**
+
+* Integrate design into frontend: Alex (by tomorrow evening)
+* Finalize work: Sam (no specific deadline mentioned)
+* Conduct final test and bug check: Alex (after Sam's work is complete)
+* Deployment and launch: Alex (by Friday)
