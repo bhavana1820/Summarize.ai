@@ -72,7 +72,7 @@ Summarize.AI/
 
 
 ---
-
+```
 ## ⚙️ Requirements
 
 Before running the project, make sure you have:
@@ -105,7 +105,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### 1️⃣ Clone the repository
 
-```bash
+
 git clone https://github.com/bhavana1820/Summarize.ai.git
 cd Summarize.ai
 
