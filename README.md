@@ -97,6 +97,8 @@ GROQ_API_KEY=your_groq_api_key_here
 
 
 > `HF_TOKEN` → required for Pyannote diarization
+
+
 > `GROQ_API_KEY` → required for AI summaries
 
 
@@ -107,9 +109,12 @@ GROQ_API_KEY=your_groq_api_key_here
 
 
 git clone https://github.com/bhavana1820/Summarize.ai.git
+
+
 cd Summarize.ai
 
 python -m venv env
+
 env\Scripts\activate        # Windows
 # source env/bin/activate  # macOS/Linux
 
