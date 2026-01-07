@@ -93,6 +93,8 @@ Create a file named **`.env`** inside the `backend/` folder.
 
 
 HF_TOKEN=your_huggingface_token_here
+
+
 GROQ_API_KEY=your_groq_api_key_here
 
 
@@ -116,7 +118,7 @@ cd Summarize.ai
 python -m venv env
 
 env\Scripts\activate        # Windows
-# source env/bin/activate  # macOS/Linux
+
 
 install requirements.txt (See the file for steps)
 
@@ -125,16 +127,16 @@ install requirements.txt (See the file for steps)
 
 Run the backend:
 
-cd backend
-uvicorn main:app --host 0.0.0.0 --port 8000
+cd backend\
+uvicorn main:app --host 0.0.0.0 --port 8000\
 
 ### 3️⃣ Frontend Setup
 
 Open a new terminal:
 
-cd frontend
-npm install
-npm start
+cd frontend\
+npm install\
+npm start\
 
 ---
 
@@ -164,7 +166,7 @@ npm start
 
 ## 📜 License
 
-This project is developed for **academic and learning purposes**.
+This project is developed for **academic and learning purposes**.\
 You are free to use and modify it for educational and personal projects.
 
 ---
