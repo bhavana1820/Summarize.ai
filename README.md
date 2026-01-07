@@ -128,7 +128,7 @@ install requirements.txt (See the file for steps)
 Run the backend:
 
 cd backend\
-uvicorn main:app --host 0.0.0.0 --port 8000\
+uvicorn main:app --host 0.0.0.0 --port 8000
 
 ### 3️⃣ Frontend Setup
 
@@ -136,7 +136,7 @@ Open a new terminal:
 
 cd frontend\
 npm install\
-npm start\
+npm star
 
 ---
 
