@@ -136,7 +136,7 @@ Open a new terminal:
 
 cd frontend\
 npm install\
-npm star
+npm start
 
 ---
 
